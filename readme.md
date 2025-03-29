@@ -13,4 +13,4 @@
 
 ## 技术栈
 
-![My Skills](https://skillicons.dev/icons?i=java,mysql,js,vue,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,js,vue,docker,git,github)
