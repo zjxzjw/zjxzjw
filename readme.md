@@ -3,8 +3,8 @@
 ✨ **欢迎来到我的 GitHub 主页！** 
 ✨我是 钟家兴，我对 **Java** 很感兴趣。
 
-- QQ: 2648609927@qq.com
-- Email: jiaxingengineer@gmail.com
+- QQ：2648609927@qq.com
+- Email：jiaxingengineer@gmail.com
 
 ![](header_.png)
 
